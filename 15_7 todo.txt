@@ -1,0 +1,14 @@
+
+
+1. read exbert - 30mins
+2. leetcode - 4 hours (8:30-9:30)
+
+4. try spacy for keywords 12-2
+
+6. leetcode - 6-8/9
+6. algo geeks for geeks - 10-11
+7. sql 11-12
+
+
+3. clean data and apply keybert - 10-12
+5. andrew ng videos - 4-5/5-6
